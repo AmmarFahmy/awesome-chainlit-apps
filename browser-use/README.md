@@ -30,7 +30,7 @@ You can run the installation directly in your terminal.
 1.  **Clone the GitHub Repository:** 
     ```bash
     git clone https://github.com/AmmarFahmy/awesome-chainlit-apps.git
-    cd browser-use-streamlit
+    cd browser-use
     ```
 
 2.  **Set up Virtual Environment and Install Dependencies:**
@@ -105,7 +105,7 @@ You can run the installation directly in your terminal.
 *   Python 3.11+
 *   Playwright
 *   browser-use
-*   Streamlit / Chainlit
+*   Chainlit
 *   langchain
 *   openai
 *   uv (optional, for faster dependency management)
