@@ -34,15 +34,9 @@ This repository serves as a comprehensive showcase of **Chainlit applications** 
 
 ## 📱 Apps Collection
 
-| App Name | Type | Description | Original Source | Features | Status |
-|----------|------|-------------|-----------------|----------|--------|
-| [Chat With Qwen3 Coder](./Chat%20With%20Qwen3%20Coder/) | 🔄 Conversion | AI coding assistant powered by Qwen3 Coder model via OpenRouter | [Build Fast with AI](https://buildfastwithai.com/genai-course) | Code review, debugging help, best practices, starter prompts | ✅ Complete |
-
-### 🔄 Conversion Legend
-- **🆕 Original** - Created specifically for this repository
-- **🔄 Conversion** - Converted from Streamlit or other frameworks
-- **🚧 In Progress** - Currently under development
-- **✅ Complete** - Ready to use
+| App Name | Description | Source |
+|----------|-------------|---------|
+| [Chat With Qwen3 Coder](./Chat%20With%20Qwen3%20Coder/) | AI coding assistant powered by Qwen3 Coder model via OpenRouter | [Build Fast with AI](https://github.com/buildfastwithai/gen-ai-experiments/tree/main/ai-apps-collection/%20Chat%20With%20Qwen3%20Coder) |
 `
 
 ## 🛠️ Development
