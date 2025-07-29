@@ -47,7 +47,7 @@ This repository serves as a comprehensive showcase of **Chainlit applications** 
 
 | App Name | Description | Source |
 |----------|-------------|---------|
-| [Chat With Qwen3 Coder](./Chat%20With%20Qwen3%20Coder/) | AI coding assistant powered by Qwen3 Coder model via OpenRouter | [Build Fast with AI](https://github.com/buildfastwithai/gen-ai-experiments/tree/main/ai-apps-collection/%20Chat%20With%20Qwen3%20Coder) |
+| [Chat With Qwen3 Coder](./chat-with-qwen3-coder/) | AI coding assistant powered by Qwen3 Coder model via OpenRouter | [Build Fast with AI](https://github.com/buildfastwithai/gen-ai-experiments/tree/main/ai-apps-collection/%20Chat%20With%20Qwen3%20Coder) |
 `
 
 ## 🛠️ Development
