@@ -1,6 +1,6 @@
 import chainlit as cl
 import os
-import asyncio
+# import asyncio
 from browser_use import Agent, Browser, BrowserConfig
 from langchain_openai import ChatOpenAI
 from langchain_google_genai import ChatGoogleGenerativeAI
@@ -8,11 +8,13 @@ from PIL import Image
 import io
 import base64
 import tempfile
-from typing import Optional
+# from typing import Optional
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
 load_dotenv()
+
+new_line = "\n\n"
 
 
 @cl.on_chat_start
@@ -148,7 +150,8 @@ async def run_browser_agent(task: str, llm, llm_name: str):
                             display="inline",
                             size="large"
                         ))
-                        step_content += f"\n\n**📷 Screenshot:** Captured"
+
+                        step_content += f"{new_line}**📷 Screenshot:** Captured"
 
                         # Send step message with screenshot
                         await cl.Message(
@@ -159,13 +162,13 @@ async def run_browser_agent(task: str, llm, llm_name: str):
                         # Clean up temp file
                         try:
                             os.unlink(screenshot_path)
-                        except:
+                        except:  # noqa: E722
                             pass
                     else:
-                        step_content += f"\n\n**📷 Screenshot:** Failed to process"
+                        step_content += f"{new_line}**📷 Screenshot:** Failed to process"
                         await cl.Message(content=step_content).send()
                 else:
-                    step_content += f"\n\n**📷 Screenshot:** Not available"
+                    step_content += f"{new_line}**📷 Screenshot:** Not available"
                     await cl.Message(content=step_content).send()
 
             except Exception as e:
