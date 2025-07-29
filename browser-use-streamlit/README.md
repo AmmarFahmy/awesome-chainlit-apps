@@ -88,7 +88,7 @@ You can run the installation directly in your terminal.
 
 2.  **Run the Chainlit App:**
     ```bash
-    chainlit run chainlit_app.py
+    chainlit run app.py
     ```
 
 3.  **Access the App:** 
