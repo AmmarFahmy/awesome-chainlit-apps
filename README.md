@@ -8,12 +8,22 @@ A curated collection of powerful Chainlit applications showcasing cutting-edge A
 
 ## 📋 Table of Contents
 
-- [🎯 About](#-about)
-- [📱 Apps Collection](#-apps-collection)
-- [🚀 Quick Start](#-quick-start)
-- [🛠️ Development](#-development)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+- [🚀 Awesome Chainlit Apps](#-awesome-chainlit-apps)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🎯 About](#-about)
+    - [🎨 App Categories](#-app-categories)
+  - [📱 Apps Collection](#-apps-collection)
+  - [🛠️ Development](#️-development)
+    - [Adding a New App](#adding-a-new-app)
+    - [Conversion Guidelines](#conversion-guidelines)
+  - [🤝 Contributing](#-contributing)
+    - [📝 Contribution Process](#-contribution-process)
+    - [🎨 Quality Standards](#-quality-standards)
+    - [🔍 App Acceptance Criteria](#-app-acceptance-criteria)
+  - [🙏 Acknowledgments](#-acknowledgments)
+  - [📧 Contact](#-contact)
+  - [📄 License](#-license)
+
 
 ## 🎯 About
 
@@ -29,7 +39,7 @@ This repository serves as a comprehensive showcase of **Chainlit applications** 
 
 - **Original Creations** - Built from scratch specifically for Chainlit
 - **Streamlit Conversions** - Outstanding open-source Streamlit apps converted to Chainlit
-- **AI Workflows** - RAG systems, agents, and complex AI pipelines
+- **AI Workflows** - RAG systems, agents, and complex AI pipelines.
 - **Specialized Tools** - Domain-specific AI applications
 
 ## 📱 Apps Collection
@@ -86,10 +96,6 @@ We welcome contributions! Here's how you can help:
 - ✅ Has clear setup instructions
 - ✅ Demonstrates a valuable functionality
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Chainlit Team** - For creating an amazing framework
@@ -106,5 +112,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 For questions or collaboration, please reach out to ammar.mfahmy@gmail.com
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Happy experimenting!**
