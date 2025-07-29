@@ -5,6 +5,7 @@ A curated collection of powerful Chainlit applications showcasing cutting-edge A
 [![Chainlit](https://img.shields.io/badge/Built%20with-Chainlit-FF6B6B?style=flat&logo=chainlit)](https://chainlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue?style=flat&logo=python)](https://python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar%20Fahmy-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ammar-fahmy/)
 
 ## 📋 Table of Contents
 
